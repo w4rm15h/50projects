@@ -2,7 +2,7 @@
 Tic-Tac-Toe
 Hangman
 Number Guesser
-Mad Libs Fill-In-The-Blank
+Mad Libs
 Rock, Paper, Scissors
 Rolling Dice
 Random Number Generators

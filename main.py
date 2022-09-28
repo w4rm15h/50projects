@@ -38,8 +38,9 @@ def createConnection(db_file):
 
 #CREATING THE FILES AND FOLDERS
 def createProject(project):
-	os.mkdir(f"{project}")
-	time.sleep(0.1)
+	p = f"{project}"
+	os.mkdir(p)
+	time.sleep(1)
 	with open(f"{project}/main.py", "a") as file:
 		file.write(f"#w4rm15h\n#50 Projects\n#{project}")
 		
